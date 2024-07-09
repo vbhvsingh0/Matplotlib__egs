@@ -1,2 +1,2 @@
 # Matplotlib__egs
-The codes here are examples of using Matplotlib
+The codes here are the examples of using Matplotlib

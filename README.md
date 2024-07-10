@@ -7,7 +7,7 @@ There are three codes here:
 
 1) Plotting weather pattern
 
-The data for this assignment comes from a subset of The National Centers for Environmental Information (NCEI) Global Historical Climatology Network daily (GHCNd) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe - it's a wonderfully large dataset to play with! In particular, you will be asked to use data from the Ann Arbor Michigan location (my home!). and this is stored in the file: fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv
+The data for this assignment comes from a subset of The National Centers for Environmental Information (NCEI) Global Historical Climatology Network daily (GHCNd) (GHCN-Daily). The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe - it's a wonderfully large dataset to play with! In particular,  use data from the Ann Arbor Michigan location (my home!). and this is stored in the file: fb441e62df2d58994928907a91895ec62c2c42e6cd075c2700843b89.csv
 
 Each row in this datafile corresponds to a single observation from a weather station, and has the following variables:
 
